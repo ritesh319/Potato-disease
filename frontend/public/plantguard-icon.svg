@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">PlantGuard leaf icon</title>
+  <desc id="desc">A dark green leaf mark inside a soft green rounded square.</desc>
+  <rect width="512" height="512" rx="116" fill="#d8f1bc"/>
+  <path d="M355.8 122.2c-91.4 2.7-157.5 27.1-193.7 71.9-35.8 44.3-33.3 92.8-9 122.6 24.5 30 65.8 34.8 106.3 13.3 44.7-23.7 74-71.9 86.4-142.3 3.2-18.1 5.1-39.9 10-65.5Z" fill="none" stroke="#173c2c" stroke-width="25" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M152.1 355.4c49.8-59.8 103.2-99.5 160.2-119.2" fill="none" stroke="#173c2c" stroke-width="25" stroke-linecap="round"/>
+</svg>
